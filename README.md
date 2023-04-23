@@ -1,1 +1,5 @@
-# Sports-data-analysis-and-Programming
+# 110-2 運動數據分析與程式設計
++ 姓名 : 徐敏皓
++ 系級 : 科技114
+# Practice
+# Final project
